@@ -1,1 +1,1 @@
-# IIntel_mage_Classification
+# Intel_mage_Classification
